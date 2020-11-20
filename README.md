@@ -1,11 +1,11 @@
 # Surfs-up
 This analysis dives into the weather patterns in Oahu, Hawaii to undestand if opening a surf & ice cream shop would be a successful venture. 
 
-Overview of the statistical analysis:
+## Overview of the statistical analysis:
 
 This statistic analysis uses SQLalchemy within python to access weather data stored in a SQLite database. The Measurement class witin this database contains both precipitation and temperature data collected over the span of many years. This data provides great insight at the weather patterns at different points of the year, to understand if this business idea will or will not be impacted by the weater. 
 
-Results:
+## Results:
 
 ![December_temps](Resources/December_temps.png)  ![June_Temps](Resources/June_Temps.png)
 
@@ -14,7 +14,7 @@ Through a series of querying, creating lists & creating dataframes, I was able t
 * The maximum temperatures for those months are also very similar, differing by about 2 degrees. The maximum temperature for December was 83 degrees F. The maximum temperature for June was 85 degrees F. 
 * There was a larger difference between the minimum temperatures for both months. December saw lower temperatures, with the lowest temperature recorded being 56 degrees F. The lowest temperature recorded for June was 64 degrees F. 
 
-Summary:
+## Summary:
 
 ![dec_rain_summary](Resources/dec_rain_summary.png)  ![June_rain_summary](Resources/June_rain_summary.png)
 
