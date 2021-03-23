@@ -1,4 +1,4 @@
-# Surfs-up
+# Hawaii Weather Analysis
 This analysis dives into the weather patterns in Oahu, Hawaii to undestand if opening a surf & ice cream shop would be a successful venture. By utilizing a SQLite database, I was able to analyze for different weather trends in Oahu, presented by routes in Flask. 
 
 ## Overview of the statistical analysis:
